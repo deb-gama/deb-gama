@@ -4,8 +4,8 @@
 - No momento estou estudando conteúdos relacionados ao Back End como parte da minha formação Full Stack, dentre eles: Node, Mongo DB, MySQL, Express e Python.
 
 <div align="center">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=deb-gama&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs?username=deb-gama&layout=compact&langs_count=16&theme=gotham"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deb-gama&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=deb-gama&layout=compact&langs_count=16&theme=gotham"/>
 </div>
 
 ##
