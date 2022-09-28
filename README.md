@@ -1,6 +1,6 @@
 
 ## <h1 align="center">Olá, eu sou a Débora Gama!</h1>
-- Trabalho como Desenvolvedora Front End.
+- Sou Dev FullStack, já trabalhei como Front End Jr e agora trabalho como Desenvolvedora Trainee em Back End.
 - No momento estou estudando conteúdos relacionados ao Back End como parte da minha formação Full Stack, dentre eles: Node, Mongo DB, MySQL, Express e Python.
 
 <div align="center">
