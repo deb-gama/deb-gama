@@ -1,7 +1,7 @@
 
 ## <h1 align="center">Olá, eu sou a Débora Gama!</h1>
-- Sou Dev FullStack, já trabalhei como Front End Jr e agora trabalho como Desenvolvedora Trainee em Back End.
-- No momento estou estudando conteúdos relacionados ao Back End, dentre eles: Node, Mongo DB, MySQL, Express e Python.
+- Sou Dev FullStack, já trabalhei como Front End Jr e agora trabalho como Desenvolvedora Jr em Back End.
+- No momento estou estudando conteúdos relacionados ao Back End, dentre eles: Django, Mongo DB, MySQL e Python.
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deb-gama&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
