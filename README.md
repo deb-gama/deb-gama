@@ -1,12 +1,10 @@
 
 ## <h1 align="center">Olá, eu sou a Débora Gama!</h1>
-- Sou Dev FullStack, já trabalhei como Front End Jr e agora trabalho como Desenvolvedora Jr em Back End.
-- No momento estou estudando conteúdos relacionados ao Back End, dentre eles: Django, Mongo DB, MySQL e Python.
-
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=deb-gama&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=deb-gama&layout=compact&langs_count=16&theme=gotham"/>
-</div>
+- Desenvolvedora Full Stack com ênfase em BackEnd
+- DJANGO - PYTHON - DOCKER - TDD - GRAPHQL - API REST - PREFECT
+  
+##
+![happy_bot_pixel](https://github.com/deb-gama/deb-gama/assets/84686977/96c4518d-f4a5-4632-b475-7eb564b3a4aa)
 
 ##
 
