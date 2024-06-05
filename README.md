@@ -1,7 +1,9 @@
 
-## <h1 align="center">Olá, eu sou a Débora Gama!</h1>
-- Desenvolvedora Full Stack com ênfase em BackEnd
-- DJANGO - PYTHON - DOCKER - TDD - GRAPHQL - API REST - PREFECT
+## <h1 align="center">Olar, eu sou a Debs!</h1>
+
+- Hoje: Analytics Engineer - Engenharia de Dados (PYTHON, PYSPARK, AWS, AIRFLOW, SQL, POSTGRES, ATHENA)
+- Antes: Desenvolvedora Full Stack com ênfase em BackEnd (PYTHON, DJANGO, GRAPHQL, RABBITMQ, DOCKER, JAVASCRIPT, TYPESCRIPT, REACT, VUE)
+
   
 ##
 ![happy_bot_pixel](https://github.com/deb-gama/deb-gama/assets/84686977/96c4518d-f4a5-4632-b475-7eb564b3a4aa)
@@ -28,10 +30,9 @@
  </div>
 
 <!-- - 👋 Hi, I’m @deb-gama
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+- 👀 Cursando Análise e Desenvolvimento de Sistemas na UNINTER
+- 🌱 Aprofundando os conhecimentos em Pyspark e AWS e estratégias de ETL.
+- 📫 debgama.developer@gmail.com
 
 <!---
 deb-gama/deb-gama is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
